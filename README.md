@@ -155,5 +155,5 @@ Explore the interactive heatmap, analyze scale intersections, and generate full 
 
 RM Song Generator is **not** designed to simulate a human composer—it showcases what a **knowledgeable algorithm** can create with explicit music theory, tonal memory, structural awareness, and internal logic. It contributes to a field of **computational creativity** where clarity, structure, and emotion can coexist.
 
-▶️ [Watch demo video](videosonggenerator.webm)
+▶️ [Download demo video](videosonggenerator.webm)
 
