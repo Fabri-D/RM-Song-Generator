@@ -1,5 +1,7 @@
 # RM Song Generator: Algorithmic Music Composition System
 
+🇪🇸 This README is also available in [Spanish](README_es.md).
+
 **RM Song Generator** is a modular algorithmic system for music composition. It uses advanced music theory, combinatorics, symbolic logic, and data science principles to generate unique, structured, and reproducible pieces. Unlike neural network-based models, it relies on a **deterministic rule-based architecture** with explicit segmentation and a hierarchical decision system.
 
 ---
