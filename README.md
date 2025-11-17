@@ -1,8 +1,6 @@
 # RM Song Generator: Algorithmic Music Composition System
 
-<video src="RM_Song_Generator_explanatory_video.mp4" controls width="600">
-Tu navegador no soporta video HTML5.
-</video>
+[Download explanatory video](RM_Song_Generator_explanatory_video.mp4)
 
 🇪🇸 This README is also available in [Spanish](README_es.md).
 
