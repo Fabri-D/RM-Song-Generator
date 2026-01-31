@@ -121,6 +121,30 @@ RM combina rigor algorítmico y conciencia musical, contribuyendo a:
 - Coherencia formal mediante memoria y reintroducción de secciones  
 - Salida reproducible en `.mp3` con orquestación expresiva
 
+**AI Song Contest (evaluación externa)**
+
+Reharmonization Maps ha sido utilizado como motor compositivo en contextos artísticos externos.
+
+En 2025, la obra *“Emersio Taciti”* — generada por el RM Song Generator
+(Equipo: black_steel) — fue seleccionada como **Semifinalista (Top 29 a nivel mundial)**
+en el **AI Song Contest 2025**.
+
+La pieza consiste en un ensamblaje de secciones compuestas por un sistema
+algorítmico simbólico y no neuronal, basado en lógica armónica y millones de
+relaciones precomputadas entre escalas y acordes, con nula o casi nula
+intervención musical humana.
+
+Esta selección entre equipos internacionales provenientes de universidades,
+laboratorios de investigación y artistas independientes constituye una
+validación externa de un enfoque estructural y basado en reglas para la
+generación musical computacional.
+
+**Enlaces:**
+- AI Song Contest 2025 — Equipo black_steel (página oficial del participante):  
+  https://www.aisongcontest.com/participants-2025/blacksteel
+- AI Song Contest (sitio oficial):  
+  https://www.aisongcontest.com/
+
 🔬 **Aplicaciones y Direcciones Futuras**
 
 🎨 **Uso Creativo**
@@ -164,3 +188,4 @@ RM Song Generator no está diseñado para simular a un compositor humano —sino
 Contribuye a un campo de creatividad computacional donde claridad, estructura y emoción pueden coexistir.
 
 ▶️ [Descargar video demo](https://github.com/Fabri-D/RM-Song-Generator/blob/main/videosonggenerator.webm)
+
